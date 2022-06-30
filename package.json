@@ -1,5 +1,5 @@
 {
-  "name": "cssom",
+  "name": "rrweb-cssom",
   "description": "CSS Object Model implementation and CSS parser",
   "keywords": [
     "CSS",
@@ -7,9 +7,9 @@
     "parser",
     "styleSheet"
   ],
-  "version": "0.5.0",
+  "version": "0.6.0",
   "author": "Nikita Vasilyev <me@elv1s.ru>",
-  "repository": "NV/CSSOM",
+  "repository": "rrweb-io/CSSOM",
   "files": [
     "lib/"
   ],
