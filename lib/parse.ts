@@ -1,12 +1,7 @@
-//.CommonJS
-var CSSOM = {};
-///CommonJS
-
-
 /**
  * @param {string} token
  */
-CSSOM.parse = function parse(token) {
+export function parse(token: string) {
 
 	var i = 0;
 
